@@ -1,0 +1,14 @@
+C:\Users\yagos\Downloads\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll.config
+C:\Users\yagos\Downloads\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Users\yagos\Downloads\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\yagos\Downloads\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\EntityFramework.dll
+C:\Users\yagos\Downloads\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yagos\Downloads\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\EntityFramework.xml
+C:\Users\yagos\Downloads\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yagos\Downloads\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.AssemblyReference.cache
+C:\Users\yagos\Downloads\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.Migrations.AddCpfToClientes.resources
+C:\Users\yagos\Downloads\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.GenerateResource.cache
+C:\Users\yagos\Downloads\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\yagos\Downloads\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.Ativi.A54B2C84.Up2Date
+C:\Users\yagos\Downloads\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Users\yagos\Downloads\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
